@@ -1,0 +1,2 @@
+- [Sobre {{dict: site: name}}](/acerca/)
+- [Cómo usar](/como-usar/)
