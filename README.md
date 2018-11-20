@@ -1,6 +1,6 @@
 # mapasculturais-culturaenlinea
 
-Este é o tema base para a plataforma Cultura en Linea.
+Este es un fork del tema base culturaenlinea de Uruguyay para la plataforma SICultura Guatemala.
 
 # Ambiente Cultura en Linea
 
